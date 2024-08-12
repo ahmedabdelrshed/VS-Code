@@ -6,19 +6,19 @@ This project is a web-based clone of Visual Studio Code (VS Code) built using mo
 
 ### React
 
-![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50">
 
 ### TypeScript
 
-![TypeScript](https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50" height="50">
 
 ### Redux
 
-![Redux](https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" alt="Redux" width="50" height="50">
 
 ### Tailwind CSS
 
-![Tailwind CSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50">
 
 ## Table of Contents
 
