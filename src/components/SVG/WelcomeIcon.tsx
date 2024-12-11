@@ -12,7 +12,7 @@ const WelcomeIcon = () => {
       <OpenedFileBar file={welcomeFile} />
 
       <div className="flex items-center justify-center h-screen">
-        <img src="/public/icons/vscode.svg" alt="icon" className="w-80 h-80" />
+        <img src="./icons/vscode.svg" alt="icon" className="w-80 h-80" />
       </div>
     </div>
   );
